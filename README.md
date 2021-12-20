@@ -1,7 +1,6 @@
 ### Hi there 👋
 #### I'm Sirio and I'm currently graduating in Digital Humanities at the University of Pisa
-
-
+#### I am an intern at Intarget, a Digital Marketing company located not far from Pisa, with five offices around the world! They are helping me to develop my thesis: a fully probabilistic framework useful for positioning budget in advertising campaigns developed using Bayesian Inference of Parameters (thanks to PyMC3 library). I'd be glad to share the code when it will be finished.
 
 <!--
 **damessina/damessina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
