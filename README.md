@@ -7,5 +7,5 @@
 Some repositories where you can start sneaking around from
 
 
-- ☕ My First Java [Project](https://github.com/damessina/JavaProjectInfoUma)
+- ☕ [My First Java Project](https://github.com/damessina/JavaProjectInfoUma)
 
