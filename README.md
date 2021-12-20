@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### I'm Sirio and I'm currently graduating in Digital Humanities at the University of Pisa
+
+
 
 <!--
 **damessina/damessina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
