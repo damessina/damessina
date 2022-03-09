@@ -9,3 +9,5 @@ Some repositories where you can start sneaking around from
 
 - ☕ [My First Java Project](https://github.com/damessina/JavaProjectInfoUma)
 
+- 🐍 [PyMC3 Example for Online Advertising](https://github.com/damessina/PyMC3_into_action)
+
