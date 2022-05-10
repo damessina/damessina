@@ -1,5 +1,5 @@
 ### Hi there, Welcome to my GitHub profile 👋
-#### This is my [resume](https://github.com/damessina/damessina/blob/main/CV_Sirio_Papa.pdf)! 
+#### This is my [resume](https://github.com/damessina/damessina/blob/main/Sirio_Papa_CV_Tech.pdf)! 
 #### I'm Sirio and I'm currently graduating in Digital Humanities at the University of Pisa 🗼
 #### In this profile you can find some code especially focused on *data science* and *machine learning*. These topics are my main fields of study and work 👨‍🔬
 #### My favorite programming language is Python due to its flexibility, but I also have a background in Java and lately I have approached R 🐍
