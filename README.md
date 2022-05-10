@@ -10,5 +10,9 @@ Some repositories where you can start sneaking around from
 
 - ☕ [My First Java Project](https://github.com/damessina/JavaProjectInfoUma)
 
-- 🐍 [PyMC3 Example for Online Advertising](https://github.com/damessina/PyMC3_into_advertising)
+- 🐍 [PyMC3 Example for Online Advertising](https://github.com/damessina/PyMC3_budget_allocation_framework/blob/main/budget_allocation.ipynb)
+
+- 🐍 [Time-Series Clustering Analysis](https://github.com/damessina/data_science_general/blob/main/time_series_analysis_1.ipynb)
+
+- 🐍 [Classification (Decision Tree), Oversampling, Outliers Detection, ](https://github.com/damessina/data_science_general/blob/main/Wine_Quality_Analysis.ipynb)
 
